@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kavu/go-phash.png?branch=master)](https://travis-ci.org/kavu/go-phash)
 
-**go-phash** is a simple [pHash](http://phash.org) wrapper library for the Go programming language.
+**go-phash** is a simple [pHash](http://phash.org) wrapper library for the Go programming language
 
 You can view documentation on [godoc.org](http://godoc.org/github.com/kavu/go-phash "go-phash documentation").
 
